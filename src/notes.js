@@ -22,7 +22,12 @@ const notes = [
   {
     key: 5,
     title: "Big ideas",
-    content: "Eat more sushi"
+    content: "Stay hydrated, rested and diligant"
+  },
+  {
+    key: 6,
+    title: "World Of Warcraft Raid Notes",
+    content: "QUACK! QUACK! QUACK! QUACK! QUAAAACK! QUACK! QUACK! QUACK! QUACK!"
   }
 ];
 
