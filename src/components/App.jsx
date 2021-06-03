@@ -43,7 +43,8 @@ function App() {
     <div>
       <Header />
       <CreateArea onAdd={addNote} />
-      {notesDefault.map((noteItem, index) => {
+      
+      {/* {notesDefault.map((noteItem, index) => {
       return (
         <Note
           key={index}
@@ -53,7 +54,7 @@ function App() {
           onDelete={deleteNoteDefault}
         />
       );
-    })}
+    })} */}
       {notes.map((noteItem, index) => {
         return (
           <Note
