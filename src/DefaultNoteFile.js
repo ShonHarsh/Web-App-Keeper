@@ -52,17 +52,17 @@ const notes = [
   {
     key: 11,
     title: "C. S. Lewis",
-    content: "I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else."
+    content: "I believe in Christianity as I believe that the sun has risen:\nnot only because I see it, but because by it I see everything else."
   },
   {
     key: 12,
     title: "Old Anglican Prayer",
-    content: "What we know not, teach us.\nWhat we are not, make us.\nWhat we have not, give us."
+    content: "What we know not,\nteach us.\nWhat we are not,\nmake us.\nWhat we have not,\ngive us."
   },
   {
     key: 13,
     title: "David Martyn Lloyd-Jones",
-    content: "Faith means taking the bare Word of God and acting upon it because it is the Word of God. It means believing what God says simply and solely because He has said it."
+    content: "Faith means taking the bare Word of God and acting upon it because it is the Word of God.\nIt means believing what God says simply and solely because He has said it."
   },
   {
     key: 14,
@@ -87,7 +87,7 @@ const notes = [
   {
     key: 18,
     title: "Ralph Waldo Emerson",
-    content: "Without ambition one starts nothing. Without work one finishes nothing. The prize will not be sent to you. You have to win it."
+    content: "Without ambition one starts nothing.\nWithout work one finishes nothing.\nThe prize will not be sent to you.\nYou have to win it."
   },
   {
     key: 19,
